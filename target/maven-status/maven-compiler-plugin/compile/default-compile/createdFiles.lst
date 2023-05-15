@@ -2,7 +2,6 @@ com\Portfolio\LogIn\Repository\ProyectoRepository.class
 com\Portfolio\LogIn\Security\AuthCredentials.class
 com\Portfolio\LogIn\LogInApplication.class
 com\Portfolio\LogIn\Repository\HabilidadRepository.class
-com\Portfolio\LogIn\config\CorsConfig$1.class
 com\Portfolio\LogIn\Service\StorageService.class
 com\Portfolio\LogIn\config\CorsConfig.class
 com\Portfolio\LogIn\Security\JWTAuthorizationFilter.class
@@ -11,7 +10,6 @@ com\Portfolio\LogIn\Service\FileSystemStorageService.class
 com\Portfolio\LogIn\Model\Proyecto.class
 com\Portfolio\LogIn\Model\Habilidad.class
 com\Portfolio\LogIn\Repository\EducacionRepository.class
-com\Portfolio\LogIn\config\CorsConfigImpl.class
 com\Portfolio\LogIn\Security\JWTAuthenticationFilter.class
 com\Portfolio\LogIn\Controller\ProyectoController.class
 com\Portfolio\LogIn\Repository\ExperienciaRepository.class
